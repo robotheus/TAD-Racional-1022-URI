@@ -1,4 +1,4 @@
-# TAD-Racional-1062-URI
+# TAD-Racional-1022-URI
 Desafio 1022 Beecrowd/Uri
 
 Código utilizando tipo abstrato de dados para o problema TAD Racional da plataforma beecrowd.
